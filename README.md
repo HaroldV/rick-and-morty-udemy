@@ -1,5 +1,7 @@
 # Rick-and-morty
 
+![Alt text](/screenshot/main-app.png?raw=true "RickAndMorty")
+
 ## Project setup
 ```
 npm install
@@ -15,5 +17,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
